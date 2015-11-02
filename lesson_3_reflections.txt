@@ -3,3 +3,8 @@ If you want to share your code/info/files or get feedback from other other peopl
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You may want to do this manually because there may be changes you don't want in your local repository. Like if someone else adds to your repository and you don't like what they added. 
+
+https://github.com/cmills17/recipes/blob/master/pie-recipe
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+You use forks to copy someone's repisitory on gitHub into your own GitHub account. You can make changes to it and share it with other people, without getting rid of the original. Clones are for local repositories on your computer, so if you want to make a change but aren't sure if it will work or mess everything up, so to be safe you can make the change on a cloned version. Branches allow you to do that even more because you can de-bug something or add code and then connect it back to the master branch. I don't know how yet, but different people can work on their own seperate branches and then connect back to the master branch.

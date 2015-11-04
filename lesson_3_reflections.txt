@@ -12,4 +12,6 @@ You use forks to copy someone's repisitory on gitHub into your own GitHub accoun
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can share the copy on gitHub and get the input of others, without worrying about them messing anything up.You can also merge things locally and push/pull things to Github from your local repository. 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would use a dropbox to send files back and forth, or I'd use email or google-docs. As long as people did seperate parts of the project, it would be much easier because the difficulty and confusion with merging two files that have changes to the same parts wouldn't exist. Without GoogleDocs a fault would be two people can't work on it at the same time.
 
